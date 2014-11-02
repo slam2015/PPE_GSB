@@ -1,0 +1,157 @@
+NOM;PRENOM;ADRESSE;COMMUNE;CODE_POSTAL;TELEPHONE;DATE_INSTALL;SPECIALITE
+Sabarots;Steve;27 rue d'alençon;Nantes;44200;0436353488;8/9/2005;Généraliste
+Bertin;Julien;33 rue des églantines;Nantes;44200;0412234556;24/4/1963;Généraliste
+Florimont;Jean-Christophe;12 allée des tanneurs;La Chapelle-sur-Erdre;44240;0926548973;20/4/2011;Généraliste
+Plouhinec;Erwann;1 impasse du roc;Saint-Herblain;44800;0411569873;27/9/2007;Généraliste
+Chestier;Erwan;56 boulevard jean jaurès;Saint-Herblain;44800;0403214587;4/12/1991;Généraliste
+Moizan;Bertrand;6 place de la daurade;Le Loroux-Bottereau;44430;0455932025;26/5/1966;Ophtalmologie
+Tétaud;Florent;89 route de paris;Nantes;44300;0468965412;15/4/1990;Généraliste
+Bego;Thomas;23 impasse des melèzes;Vertou;44120;0434567890;3/3/1973;Généraliste
+Lecuelle;Christophe;55 boulevard jean rieux;Saint-Sébastien-sur-Loire;44230;0925984301;7/12/2014;Généraliste
+Huard;Maxime;69 rue vincent lagache;Nantes;44200;0455932016;21/5/1974;Ophtalmologie
+Nestour;Henri;45 rue alsace lorraine;Nantes;44300;0455932046;14/1/1980;Cardiologie
+Socheleau;Pierrette;8 place des carmes;Bouaye;44830;0455932009;5/11/1961;Neurologie
+Fruchard;Charly;24 rue laloubert;Le Loroux-Bottereau;44430;0422356975;8/3/2014;Généraliste
+Lamy;Stéphane;21 rue des vergers;Nantes;44200;0933589414;2/7/1988;Généraliste
+Tarek;Samir;32 route de vannes;Saint-Julien-de-Concelles;44450;0455932052;28/12/1963;Gynécologie
+Renoult;Guillaume;12 rue du marechal joffre;Nantes;44100;0402256890;19/7/1960;Généraliste
+James;Sébastien;50 avenue fontaine lestang;Sautron;44880;0906854735;11/10/1960;Généraliste
+Cadic;Florian;26 chemin de la gare;Indre;44610;0456985230;5/6/1982;Généraliste
+Choimet;Antoine;42 chemin des anciens combattants;Bouaye;44830;0489652100;28/9/2001;Généraliste
+Lelievre;Thibault;16 place pinel;Le Pallet;44330;0433441212;20/9/1985;Généraliste
+Zidi;Mehdi;33 avenue du champ de mars;Carquefou;44470;0455932001;7/3/2010;Généraliste
+Therin;Katell;105 route de rennes;Le Pallet;44330;0498655863;24/5/2014;Généraliste
+Vigou;Mathieu;13 place saint etienne;Le Loroux-Bottereau;44430;0433577815;24/8/1966;Généraliste
+Lemarié;Clémentine;60 place saint sernin;Bouguenais;44340;0444512132;21/3/1969;Généraliste
+Percepied;Guillaume;2 boulevard saint sébastien;La Haie-Fouassière;44690;0475755315;27/6/1967;Généraliste
+Lahary;Mathilde;19 chemin des anglais;Bouguenais;44340;0455932022;10/11/2002;Oto-rhino-laryngologie
+Chauvet;Aurélien;19 route de saint sauveur;Orvault;44700;0458965470;14/6/1976;Généraliste
+Lucas;Mélanie;44 avenue raoul petite;Saint-Etienne-de-Montluc;44360;0477747512;23/5/1982;Généraliste
+Leclerc;Mélanie;43 avenue des roses;Sautron;44880;0455932037;7/2/1991;Gériatrie
+Cochard;Nathalie;87 chemin du quai;Les Sorinières;44840;0455932010;15/2/2004;Ophtalmologie
+Jobbin;Armand;24 chemin des montagnes;Saint-Jean-de-Boiseau;44640;0455932056;9/7/2013;Gastroentérologie
+Blumeneau;Lilian;23 route de labroquère;La Haie-Fouassière;44690;0455932057;14/3/2013;Cardiologie
+Debant;Clément;10 impasse des izards;Sainte-Luce-sur-Loire;44980;0488965350;6/3/1995;Généraliste
+Desfossés;Florian;9 passage du sergent;Nantes;44100;0456893510;16/10/1993;Généraliste
+Daviet;Cyrille;27 rue de saint stéphane;Sautron;44880;0981425637;6/9/1975;Généraliste
+Dupuy;Vincent;27 rue du général;Sainte-Luce-sur-Loire;44980;0455932064;22/3/1968;Oto-rhino-laryngologie
+Appert;Bernard;45 rue léon joxe;La Montagne;44620;0455932029;16/4/1973;Pédiatrie
+Rimbault;Stéphanie;22 rue des cuiraciers;Vertou;44120;0435377356;10/2/1971;Généraliste
+Ouvrard;Antoine;12 route des monts;Saint-Jean-de-Boiseau;44640;0415951990;18/1/2008;Généraliste
+Ledoux;Antoine;88 route de bonne espérance;Nantes;44300;0465487985;6/1/1998;Généraliste
+Brechoir;Julien;5 avenue des jours heureux;Saint-Julien-de-Concelles;44450;0921578640;11/4/2002;Généraliste
+Roland;Jules;46 impasse du 18 juin;Rezé;44400;0455932024;2/7/1967;Pédiatrie
+Fouré;Guillaume;25 rue des guitares;Rezé;44400;0478662301;13/7/2011;Généraliste
+Samoyeau;Stéphane;86 avenue de l'automne;Saint-Sébastien-sur-Loire;44230;0455932018;23/4/2009;Gastroentérologie
+Fortin;Annie;28 route des arbres;Nantes;44300;0455932020;12/11/1967;Gynécologie
+Roger;Albert;86 chemin de la chézine;La Haie-Fouassière;44690;0455932005;16/6/1983;Gastroentérologie
+Blanchard;François;24 rue jean calas;Nantes;44300;0414253609;3/4/1965;Généraliste
+Fernandez;Victor;72 route du zodiac;Saint-Sébastien-sur-Loire;44230;0497314658;4/11/1990;Généraliste
+Gay;Raymond;27 place lincoln;Basse-Goulaine;44115;0455932014;21/12/2001;Gastroentérologie
+Queffelec;Adrien;53 rue des maraichers;Sainte-Luce-sur-Loire;44980;0498623541;3/5/1994;Généraliste
+Rossignol;Paul;12 rue du général de gaulle;Vertou;44120;0455932041;12/4/1988;Cardiologie
+Poulériguen;Olivier;55 boulevard de la libération;Nantes;44100;0455932039;5/2/2010;Gynécologie
+Favreau;Jérémy;79 boulevard des anciens combattants;Couëron;44220;0421543690;3/3/1988;Généraliste
+Gautier;Michel;31 boulevard de la loire;Couëron;44220;0455932017;12/7/2001;Gynécologie
+Canevet;Yves;46 avenue des archers;La Montagne;44620;0455932003;25/8/2007;Cardiologie
+Vandenhove;Pierre;12 rue de la hache;Rezé;44400;0436339850;14/12/2004;Généraliste
+Thurier;Bruno;36 rue du massacre;Bouguenais;44340;0436665215;16/6/2007;Généraliste
+Bidet;Bernard;12 avenue de l'armistice;Saint-Herblain;44800;0455932008;25/7/1978;Dermatologie
+Guillemot;Nicolas;58 avenue de l'amnistie;Port-Saint-Père;44710;0952030547;11/2/1975;Généraliste
+Boursier;Mathias;21 rue de la production;Le Loroux-Bottereau;44430;0965626899;4/10/1986;Généraliste
+Borg;Thierry;13 rue de la rentabilité;Carquefou;44470;0455932053;23/6/1996;Urologie
+Geuffraud;Anthony;14 impasse des mouettes;La Montagne;44620;0947152460;6/7/1982;Généraliste
+Cavalli;Cynthia;16 route du vent;Saint-Jean-de-Boiseau;44640;0452145896;10/2/1984;Généraliste
+Vandenbulcke;Hugues;64 rue des alouettes;Bouaye;44830;0455932035;17/6/1999;Pédiatrie
+Le Bayon;Caroline;44 rue des platanes;La Montagne;44620;0455932055;1/2/1978;Gynécologie
+Haidar;Soulaimane;27 rue du caporal clegg;Bouaye;44830;0929330409;20/3/1987;Généraliste
+Jouannic;Guy;35 chemin du mont arreat;Sautron;44880;0455932011;17/6/1986;Urologie
+Tessiau;Renée;48 route de l'isengard;Port-Saint-Père;44710;0455932033;26/7/2003;Cardiologie
+Albin;Mickaël;78 rue de la main noire;Nantes;44100;0412345678;24/12/2002;Généraliste
+Fonteneau;Ayrton;21 chemin de la contrebasse;Le Pallet;44330;0937388950;4/9/1996;Généraliste
+Menant;Vincent;14 rue du chant;Saint-Julien-de-Concelles;44450;0423656980;18/3/1963;Généraliste
+Forest;William;30 rue du général buat;Bouguenais;44340;0968115493;19/10/1988;Généraliste
+Desbrosses;Louise;45 avenue des prophètes;Saint-Herblain;44800;0455932034;12/1/1982;Oto-rhino-laryngologie
+Delongueil;Marianne;10 impasse des lezards;Couëron;44220;0455932043;22/9/1981;Dermatologie
+Gorson;Anthony;6 avenue jules guesde;La Haie-Fouassière;44690;0922863478;9/5/1979;Généraliste
+Sophéa;Prémaneil;7 rue du moulin;Couëron;44220;0427298381;23/8/1967;Généraliste
+Hederer;Frédérique;48 rue jean moulin;Le Pallet;44330;0455932047;12/11/1968;Neurologie
+Pichaud;Pierre;23 rue du drapeau noir;Orvault;44700;0424531595;13/4/2000;Généraliste
+Jallais;Frédéric;12 rue de la tour sombre;Saint-Julien-de-Concelles;44450;0455932026;2/2/1960;Pneumologie
+Lagarre;Rémy;9 place du village;Basse-Goulaine;44115;0924613530;26/1/1985;Généraliste
+Goupil;Virginie;2 rue des algues;Sainte-Luce-sur-Loire;44980;0455932012;28/7/1980;Pneumologie
+Bui;Stéphanie;1 boulevard de l'abbaye;Carquefou;44470;0938715632;11/3/1972;Généraliste
+Cheguillaume;Jérémy;28 rue du rince cochon;Port-Saint-Père;44710;0414142650;21/3/1969;Généraliste
+Dillies;Omar;36 avenue des hallebardes;Indre;44610;0455932054;1/5/2001;Dermatologie
+Avci;Ozlem;78 route des irlandais;Basse-Goulaine;44115;0423456789;23/7/1960;Généraliste
+Bonnel;Christian;112 avenue du palais;La Chapelle-sur-Erdre;44240;0455932045;12/8/2009;Pneumologie
+Moquay;Quentin;132 avenue de la cathedrale;Carquefou;44470;0456897812;24/12/1987;Généraliste
+Malidain;Flora;24 rue d'orion;Orvault;44700;0455932006;19/7/2004;Cardiologie
+Tanasescu;Radu-Sorin;54 rue de la constellation;Saint-Sébastien-sur-Loire;44230;0468465921;28/11/1984;Généraliste
+Lavigne;Clément;24 rue de venus;Couëron;44220;0968732561;22/1/1975;Généraliste
+Dumez;Marc;14 impasse des chouettes;Bouaye;44830;0455932061;6/3/1968;Urologie
+Le Goff;Benoït;63 impasse des virtuoses;Les Sorinières;44840;0455932062;24/12/2009;Dermatologie
+Michaud;Pierre;13 rue des partitions;Vertou;44120;0455932015;7/3/1993;Gastroentérologie
+Chaffot;Johan;76 rue de la condamine;La Haie-Fouassière;44690;0458963201;8/10/1981;Généraliste
+Duval;Adrien;2 impasse des motards;Vertou;44120;0412124586;7/2/2003;Généraliste
+Durand;Thomas;57 place de la dalbade;Basse-Goulaine;44115;0478548756;3/7/2004;Généraliste
+Martinez;Louis;24 rue du poney fringuant;Le Loroux-Bottereau;44430;0456655687;20/5/2008;Généraliste
+Pinoit;Amandine;9 place de la victoire;Port-Saint-Père;44710;0486848311;5/6/2003;Généraliste
+Gervais;Armel;45 rue des lois;Rezé;44400;0455932050;25/7/1991;Oto-rhino-laryngologie
+Bource;Matthieu;18 place fleurie;Saint-Etienne-de-Montluc;44360;0456589204;14/9/2005;Généraliste
+Blouët;Pierrick;34 rue de la voie lactée;La Chapelle-sur-Erdre;44240;0455932019;28/1/1970;Gériatrie
+Madiau;Grégoire;67 rue du marché;Saint-Herblain;44800;0455932060;8/3/1986;Ophtalmologie
+Bouri;Elise;25 cours des cinquantes otages;Indre;44610;0455932002;14/10/1967;Gastroentérologie
+Hamon;Robert;45 rue du commandant charcot;Port-Saint-Père;44710;0455932007;14/5/1998;Gériatrie
+Fortin;Claire;24 rue de la bouteille;Saint-Etienne-de-Montluc;44360;0489556320;9/2/2012;Généraliste
+Lamberton;Damien;7 place talensac;Vertou;44120;0697325486;25/8/1960;Généraliste
+Germain;Mehdi;16 rue du général kurtz;Indre;44610;0968314524;1/8/1996;Généraliste
+Nicolon;Ellynn;54 chemin de la falaise;Indre;44610;0423562389;6/10/2001;Généraliste
+Prevost;Julien;28 route de la pierre monde;Sautron;44880;0479784621;9/4/1961;Généraliste
+Malleron;Eloïse;27 rue marie curie;Les Sorinières;44840;0455932036;20/1/1982;Dermatologie
+Gasté;Alexandre;33 cours de la marne;Carquefou;44470;0689325462;25/3/2003;Généraliste
+Draperon;Jacques;5 route des loups;Bouguenais;44340;0455932048;4/2/2001;Oto-rhino-laryngologie
+Carvallo;Matthias;39 avenue des miraculés;La Montagne;44620;0458741002;3/7/2007;Généraliste
+Masseau;José;2 chemin du capitole;Sautron;44880;0455932063;2/11/1970;Ophtalmologie
+Hurbin;Louis;59 allée des étoiles;Les Sorinières;44840;0678932155;27/7/1997;Généraliste
+Croix;Hélène;56 rue neil armstrong;Saint-Sébastien-sur-Loire;44230;0455932044;8/7/2013;Cardiologie
+Valligny;Pierre;55 chemin de la mer;Saint-Etienne-de-Montluc;44360;0488745963;12/4/1979;Généraliste
+Jolly;Pierre;22 rue du taur;Sainte-Luce-sur-Loire;44980;0963248935;22/7/1982;Généraliste
+Bolou;Vanessa;79 avenue de la soulliardière;Le Pallet;44330;0417283925;18/9/2014;Généraliste
+Finociety;Tony;24 route des anges;Orvault;44700;0455932032;6/1/1970;Psychiatrie
+Bichon;Nicolas;23 route des albatros;Couëron;44220;0423344556;10/9/2010;Généraliste
+Trouain;Gauthier;45 route des princes d'ambre;Le Loroux-Bottereau;44430;0455932051;2/6/1992;Pédiatrie
+Malherbe;Philippe;32 boulevard des groseilles;Nantes;44100;0455932013;24/8/2008;Pédiatrie
+Etrillard;Marcel;45 rue du ponant;Nantes;44200;0455932042;26/2/1999;Psychiatrie
+Belloti;Jean-Baptiste;3 rue christophe bec;Orvault;44700;0455932058;16/4/1983;Pédiatrie
+Lecuelle;David;12 chemin de l'appel;La Chapelle-sur-Erdre;44240;0939345210;21/12/2001;Généraliste
+Legros;Jean;68 place des arbalétriers;Le Pallet;44330;0455932021;1/6/1960;Psychiatrie
+Enache;Luc;30 rue sainte-catherine;Saint-Etienne-de-Montluc;44360;0455932023;28/7/1975;Stomatologie
+Pluchon;Gwenaël;18 cours du jardin des plantes;Bouaye;44830;0413135987;7/1/1977;Généraliste
+Bigeard;Kévin;27 route du japon;Saint-Sébastien-sur-Loire;44230;0498765432;2/8/1984;Généraliste
+Coutaud;Elie;16 boulevard carnot;Les Sorinières;44840;0489653521;1/1/1988;Généraliste
+Viry;Erwan;27 cours cambronne;Saint-Julien-de-Concelles;44450;0451102597;12/10/1972;Généraliste
+Martin;Jérémy;39 place arnaud bernard;Rezé;44400;0445568997;1/6/1987;Généraliste
+Panetier;Lucie;16 rue de la poste;Saint-Jean-de-Boiseau;44640;0455932004;24/7/1997;Neurologie
+Bonnery;Monique;58 rue saint rome;Sainte-Luce-sur-Loire;44980;0455932038;7/9/1964;Rhumatologie
+Jahan;Christine;45 rue des rois;Port-Saint-Père;44710;0455932059;21/10/1975;Gynécologie
+Boulanger;Colin;56 rue des ailes dorées;Bouguenais;44340;0408252829;3/8/1979;Généraliste
+Chaillou;Tristan;35 route du soleil levant;Indre;44610;0455932028;10/7/1960;Psychiatrie
+Possémé;Sébastien;49 allée du château;Les Sorinières;44840;0488779955;18/3/2006;Généraliste
+Guitteny;Geoffrey;90 boulevard olympe;Saint-Herblain;44800;0975025563;28/11/2001;Généraliste
+Abadie;Amélie;51 place saint pierre;Basse-Goulaine;44115;0455932040;2/1/2003;Pédiatrie
+Teissier;Benjamin;4 impasse du poulpe;La Chapelle-sur-Erdre;44240;0499645123;10/8/1984;Généraliste
+Normand;Jordan;11 rue des beliers;La Montagne;44620;0415155951;17/10/1984;Généraliste
+Fradin;Anne;12 impasse de la borgne;La Haie-Fouassière;44690;0455932031;19/1/1983;Psychiatrie
+Kerdreux;Bastien;65 avenue des pecheurs;Nantes;44100;0981444293;3/11/1973;Généraliste
+Bourguoin;Adrien;24 chemin de la longue marche;Rezé;44400;0459621456;4/6/1989;Généraliste
+Gleonec;Hoël;23 avenue des chasseurs;Saint-Jean-de-Boiseau;44640;0992154003;1/3/1964;Généraliste
+Grelier;François;22 chemin des chauves;Orvault;44700;0938651008;25/7/1990;Généraliste
+Saiband;Marc-Antoine;235 route de la manufacture des tabacs;Saint-Jean-de-Boiseau;44640;0455932030;25/6/1992;Stomatologie
+Estival;Martin;86 rue de l'immortel;Nantes;44200;0458886341;14/4/1976;Généraliste
+Gasnier;Benjamin;22 rue des marchands;Saint-Julien-de-Concelles;44450;0403036589;9/11/1980;Généraliste
+Billiet;Karl;12 impasse du colonel;La Chapelle-sur-Erdre;44240;0498877665;3/6/2012;Généraliste
+Fontanel;Julien;12 rue de la septième compagnie;Nantes;44300;0914259038;16/11/1973;Généraliste
+Blanloeil;Claude;27 route du titanic;Carquefou;44470;0455932027;20/10/1975;Psychiatrie
+Rialland;Mickaël;56 impasse du 11 septembre;Basse-Goulaine;44115;0450665432;12/5/1987;Généraliste
+Martin;Michelle;27 allée de la pierre tremblante;Saint-Etienne-de-Montluc;44360;0455932049;11/2/2008;Stomatologie
